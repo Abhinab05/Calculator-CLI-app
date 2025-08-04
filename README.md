@@ -3,6 +3,7 @@ First I defined four functions,
 2. sub() for subtraction 
 3. mul() for multiplication &
 4. div() for division with a check to handle division by zero.
+
 Next, I used a while loop to repeatedly show a menu with options for the user to choose an operation.
 The choice variable is used  to store the user’s selection.
 If the choice is among 1 to 4, the program prompts the user to enter two numbers. This is done inside a try block to catch invalid inputs, using except ValueError for error handling.
