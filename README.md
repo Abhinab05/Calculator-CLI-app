@@ -1,7 +1,7 @@
 First I defined four functions, 
-1. add() for addition; 
-2. sub() for subtraction; 
-3. mul() for multiplication; &
+1. add() for addition 
+2. sub() for subtraction 
+3. mul() for multiplication &
 4. div() for division with a check to handle division by zero.
 Next, I used a while loop to repeatedly show a menu with options for the user to choose an operation.
 The choice variable is used  to store the user’s selection.
